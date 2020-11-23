@@ -1,0 +1,5 @@
+
+db user: lesandi_users
+db pass: ZbZVgbsxUtXi7zLE
+
+mongodb+srv://lesandi_users:ZbZVgbsxUtXi7zLE@cluster0.mdqo2.mongodb.net
